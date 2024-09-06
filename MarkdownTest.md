@@ -27,4 +27,7 @@ for i in range(1234):
         print(str(i) + "is even")
 ```
 [This is a hyperlink](https://github.com)
+
+This is an image:
+
 <img src = "https://pbs.twimg.com/media/EWWohGoXQAAfacP.jpg" width = "200">
