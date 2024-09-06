@@ -1,7 +1,7 @@
 # PHYS323 HW 01
 
 **Author:** 
-CHANGEME
+Daniel Yaacov
 
 ## Specification
 
@@ -15,7 +15,9 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+- **Further familiarized myself with the add/commit/push workflow**
+- **Tested out various basic tools in Markdown used to format text**
+- **Learned how to create new text files with the `touch` command**
 
 ## Honor Pledge
 
@@ -26,4 +28,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Daniel Yaacov**
