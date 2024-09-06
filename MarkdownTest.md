@@ -20,4 +20,9 @@ You can write in **bold** and *italic*, or *\**both**\*
 - List
 
 You can also write snippets of `code` like this:
-``print("Hello World")``
+```
+print("Hello World")
+for i in range(1234):
+    if i%2 == 0:
+        print(str(i) + "is even")
+```
